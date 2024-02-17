@@ -1,13 +1,10 @@
 # 3Dtrick-socials
 <p align="center"> what's good guys?🔥</p>
 <p align="center">
-<a href="https://mehdi-zaree.github.io/ubisoft/"target="_blank"> view demo</a> .
+<a href="https://mehdi-zaree.github.io/trick3d-socials/"target="_blank"> view demo</a> .
 <a href="https://github.com/Mehdi-Zaree/newspaper-grid/issues">report bug</a> .
 <a href="https://github.com/Mehdi-Zaree/newspaper-grid/issues">requesting feature</a></p>
-<img src="https://github.com/Mehdi-Zaree/trick3d-socials/assets/155577064/274e0acb-252d-49d4-832d-76833a905fe0"></img>
-
-
-
+<img src="https://github.com/Mehdi-Zaree/trick3d-socials/assets/155577064/274e0acb-252d-49d4-832d-76833a905fe0">
 </p>
 
 ## :computer: Technologies 
@@ -15,7 +12,8 @@
 - CSS
   
 ## :page_facing_up: Description
-Hi everyone in this project I tried to develop Ubisoft's website and I'm pleased with the result, I developed this project by using flex properties.</br>
+Hi, what's up, friends?</br>
+I developed this tiny 3D trick with transform properties, hope you enjoy it.</br>
 developed by: Mehdi Zarei</br>
 supervised by: Parsa Ghorbanian</br>
 date:2024/02/03
